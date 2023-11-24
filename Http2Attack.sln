@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http2Attack", "Http2Attack\Http2Attack.csproj", "{576A541E-87A8-4A8D-8F92-F5CC7C6F6A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576A541E-87A8-4A8D-8F92-F5CC7C6F6A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576A541E-87A8-4A8D-8F92-F5CC7C6F6A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576A541E-87A8-4A8D-8F92-F5CC7C6F6A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576A541E-87A8-4A8D-8F92-F5CC7C6F6A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A2A1E3-0B17-4451-8BB7-8CE55474B944}
+	EndGlobalSection
+EndGlobal
